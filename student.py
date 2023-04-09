@@ -1,6 +1,13 @@
 class Student:
     passingpercentage=40
     #instance method 
+    def __init__ ( self,name,age,percentage):
+        self.name=name
+        self.age=age
+        self.percentage=percentage
+        
+        
+        
     def studentdetails(self):
         self.name="vib"
         self.age=22
