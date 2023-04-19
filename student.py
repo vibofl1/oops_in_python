@@ -40,7 +40,7 @@ print(s1)
 s1.studentdetails()
 s1.ispassed()
 s1.welcometoschool()
-
+#11
 
 
 
